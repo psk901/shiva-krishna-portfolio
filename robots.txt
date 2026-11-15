@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-NETLIFY-SITE.netlify.app/sitemap.xml
+
+Sitemap: https://shiva-krishna-portfolio.netlify.app/sitemap.xml
