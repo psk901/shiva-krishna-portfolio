@@ -1,4 +1,4 @@
-# Shiva Krishna Palletti — Portfolio
+# Shiva Krishna Pallety — Portfolio
 
 Personal portfolio for GitHub user [psk901](https://github.com/psk901). Built with plain HTML, CSS and JavaScript; no build command or paid service required.
 
